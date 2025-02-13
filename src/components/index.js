@@ -10,5 +10,6 @@ export {
     Header,
     Container,
     Logo,
-    Logout
+    Logout,
+    Button
 }
